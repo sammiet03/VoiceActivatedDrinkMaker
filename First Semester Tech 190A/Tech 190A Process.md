@@ -8,6 +8,5 @@
 
 
 ### First Draft of Voice Activated Water Pump Schematic 
-
-
+<img width="459" alt="1st Draft Water Pump Schematic" src="https://user-images.githubusercontent.com/95317911/163659902-eab69194-c4e9-455e-bd73-14194d5e4406.png">
 
