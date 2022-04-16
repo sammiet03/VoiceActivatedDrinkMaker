@@ -21,9 +21,6 @@
 ### Final Draft of Fritzing 
 <img width="889" alt="Screen Shot 2021-11-22 at 3 54 17 PM" src="https://user-images.githubusercontent.com/95317911/163660103-fb23ddd2-4c15-4bcb-94c8-875a377a80cc.png">
 
-### Video of Working Prototype 
-https://user-images.githubusercontent.com/95317911/163660207-57de208f-c91a-4f86-8b5c-d48f6db97ce9.mp4
-
 ### Code for Prototype 
 - [Code Found HERE!](https://github.com/sammiet03/VoiceActivatedDrinkMaker/blob/main/First%20Semester%20Tech%20190A/Final_Working_Code.ino)
 
