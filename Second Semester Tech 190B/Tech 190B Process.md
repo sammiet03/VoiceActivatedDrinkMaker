@@ -70,7 +70,20 @@ Lastly, you will be brought to the Energy Usage Estimation. Select your desired 
 - Here is the circuit layout I have planned for my project
 ![Untitled presentation](https://user-images.githubusercontent.com/95317911/164792725-10dd05af-28fa-4a52-b71e-66fa718b9bd6.png)
 
+| WeMos | Relay Module |
+| ----------- | ----------- |
+| 5V | VCC |
+| GND | GND |
+| D2 | IN1 |
+| D4 | IN2 |
+| D0 | IN3 |
+| D5 | IN4 |
 
+| Power Cord | Power Supply |
+| ---------- | ------------ |
+| Black wire | L |
+| White wire | N |
+| Green wire | Ground | 
 
 
 
