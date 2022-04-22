@@ -16,16 +16,16 @@ int luce_1 = 4; //GPIO Pin 4 correspond with the pin D2 on wemos //
 int luce_2 = 2; //GPIO Pin 2 correspond with the pin D4 on wemos // works!
 int luce_3 = 16; //GPIO Pin 16 correspond with the pin TOP D0 on wemos // fixed
 int luce_4 = 14; //GPIO Pin 14 correspond with the pin D5 on wemos /// works!
-#define WIFI_SSID "Verizon-RC400L-78"
-#define WIFI_PASS "Tech190BProject03!"
+#define WIFI_SSID "Put the name of your WiFi Network Here"
+#define WIFI_PASS "Put your WiFi Network password here"
 
-#define APP_KEY "1ca1f97a-4608-49de-9e22-4b065da3fd9c" // APP KEY in SinricPro
-#define APP_SECRET "c43e46a8-c252-4c80-a653-5da332f0b9b4-29f9e3e6-7ebf-4b8a-a434-7c8c7a3d1bcf" // APP SECRET in SinricPro
+#define APP_KEY "APP Key in SinricPro" // APP KEY in SinricPro
+#define APP_SECRET "App Secret in SinricPro" // APP SECRET in SinricPro
 
-#define SWITCH_ID_1 "6261b6f3d0fd258c52166e16" // Device ID
-#define SWITCH_ID_2 "6261b156d0fd258c5216686a" 
-#define SWITCH_ID_3 "6261b194d0fd258c521668db"
-#define SWITCH_ID_4 "6261b1b2753dc5aab4af1aa2"
+#define SWITCH_ID_1 "Your Device ID for Pump 1" // Device ID
+#define SWITCH_ID_2 "Your Device ID for Pump 2" 
+#define SWITCH_ID_3 "Your Device ID for Pump 3"
+#define SWITCH_ID_4 "Your Device ID for Pump 4"
 #define BAUD_RATE 230400
 
 // initial power state of pumps 
