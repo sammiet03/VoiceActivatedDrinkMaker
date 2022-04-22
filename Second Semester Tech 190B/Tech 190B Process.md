@@ -40,8 +40,17 @@ Lastly, you will be brought to the Energy Usage Estimation. Select your desired 
 7) Download the Arduino IDE software [Here](https://www.arduino.cc/en/software) 
 8) Download the necessary Libraries for our code to work. Click on Tools, then Manage Libraries, search and Install the following Libraries: WiFi, ArduinoJson, SinricPro.
 9) To add your ESP8266 Board to Arduino. Click on Preferences, then in the Additonal Boards Manager URLs paste this link http://arduino.esp8266.com/stable/package_esp8266com_index.json and then click OK on the bottom right. 
-10) Upload the code 
-
+10) Upload the [Code](https://github.com/sammiet03/VoiceActivatedDrinkMaker/blob/main/Second%20Semester%20Tech%20190B/FINAL_USE.ino) 
+11) Make sure that you have selected the right COM port, the correct Board, and the correct BAUD Rate. 
+12) Then click Verfiy and Upload.
+13) After the code is finished uploading, click on the serial monitor to view your ESP8266 IP Address and that it has connected to Sinric Pro. 
+14) In order for the circuit to create drinks. Go to the Alexa App, Select on the More Tab, then Routines, click on the + icon, Enter the routine name this can be the type of drink you are going to make example would be "Strawberry Lemonade"
+15) Then click on Add Action, then click Custom at the top, Enter the phrases you would use to prompt Alexa to carry out the Routine. Examples of this would be "make me a strawberry lemonade", "make strawberry lemonade", etc. 
+16) Then click on Add Action, Click on Smart Home, then your desired pump (say that this pump will be for the Lemonade), for Power leave it at ON, then click Next. 
+17) Then add the next pump (say that this pump will be used for the strawberry flavoring), for Power leave it at ON, then click next. 
+18) Next, add another Action, scroll down to Wait, and click the amount of time you want both of the pumps to be on for.
+19) Lastly, make sure you repeat the steps 15 & 16, but for the Power select OFF so that your pumps will power off after completing the Routine.  
+20) After all of these steps you will have the ability to speak to your Echo and Alexa will prompt the machine to create the drink in your routine! :tada:
 
 
 
@@ -74,4 +83,4 @@ Lastly, you will be brought to the Energy Usage Estimation. Select your desired 
 
 
 ### Here is the Code for my Project 
-[Code for Circuit]()
+[Code for Circuit](https://github.com/sammiet03/VoiceActivatedDrinkMaker/blob/main/Second%20Semester%20Tech%20190B/FINAL_USE.ino)
