@@ -8,7 +8,53 @@
 
 ### Materials Needed to Create this Project
 - For this project, I have incorporated Amazon Alexa for the voice recognition part of the project. By using Amazon Alexa's speech recognition it will be easier for the machine to understand a variety of different voices. 
-- Other materials needed for this project are: 4 Channel 5V Relay Module, ESP8266 Board, 12V 10A 120W AC to DC power supply, 4 Peristalic Pumps, Breadboard, 9V battery clip, 3 Prong Power Supply Cord, Amazon Echo Dot.  
+- Other materials needed for this project are: 4 Channel 5V Relay Module, ESP8266 Board, 12V 10A 120W AC to DC power supply, 4 Peristalic Pumps, Breadboard, 9V battery clip, 3 Prong Power Supply Cord, Amazon Echo Dot, 3mm tube for pumps.
+
+### Steps to create this Project
+1) Create a Sinric Pro account [here](https://portal.sinric.pro/register) 
+2) From the homepage, click on devices on the left dashboard, then add device. Complete this process for the other 3 Pumps.
+<img width="500" height = "400" alt="Screen Shot 2022-04-22 at 2 09 03 PM" src="https://user-images.githubusercontent.com/95317911/164793796-e5309fb1-28a1-417f-964c-24ea74868e00.png"> 
+
+Next, you have the ability to send push notifications to your mobile device. Select your desired settings and then click Next. 
+
+<img width="500" height ="400" alt="Screen Shot 2022-04-22 at 2 12 36 PM" src="https://user-images.githubusercontent.com/95317911/164794183-69f3d185-778b-4409-b9c5-960424e5078a.png">
+
+Then, you have the ability to set Timers. Select your desired settings and then click Next.
+
+<img width="500" height = "400" alt="Screen Shot 2022-04-22 at 2 14 12 PM" src="https://user-images.githubusercontent.com/95317911/164794355-8eb7cbfb-859d-4276-8319-999060d230e1.png">
+
+Lastly, you will be brought to the Energy Usage Estimation. Select your desired settings and then Click Next. 
+
+<img width="500" height = "400" alt="Screen Shot 2022-04-22 at 2 15 49 PM" src="https://user-images.githubusercontent.com/95317911/164794549-a4e8eeb8-6332-4711-af13-5ebb064f7c8f.png">
+
+3) After creating all of your pumps, go to the Devices tab and copy all of your Pump ID numbers. They are listed underneath the Pumps you have created. 
+
+<img width="873" alt="Screen Shot 2022-04-22 at 2 17 13 PM" src="https://user-images.githubusercontent.com/95317911/164795564-32411b81-696a-4ac9-9d76-43b67e98bdce.png">
+
+4) In the Credentials Tab, copy your APP KEY and APP SECRET into a safe place, we will need these credentials later on in the code. 
+
+<img width="933" alt="Screen Shot 2022-04-22 at 2 21 21 PM" src="https://user-images.githubusercontent.com/95317911/164796320-2ab31727-4f51-4afb-84e7-4c93a098ff39.png">
+
+5) Download the Alex App on your phone. Then go to Skills & Games, enter Sinric Pro in the search bar, and select the skill and click on enable. 
+6) Then enter your login details you used to create your Sinric Pro account. 
+7) Download the Arduino IDE software [Here](https://www.arduino.cc/en/software) 
+8) Download the necessary Libraries for our code to work. Click on Tools, then Manage Libraries, search and Install the following Libraries: WiFi, ArduinoJson, SinricPro.
+9) To add your ESP8266 Board to Arduino. Click on Preferences, then in the Additonal Boards Manager URLs paste this link http://arduino.esp8266.com/stable/package_esp8266com_index.json and then click OK on the bottom right. 
+10) Upload the code 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Circuit Layout 
