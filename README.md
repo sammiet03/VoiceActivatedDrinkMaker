@@ -14,4 +14,4 @@
 - Continue working on project topic picked in Tech 190A 
 - Creating final version of Voice Activated Drink Maker 
 - Materials used to create final version: WeMos Wi-Fi ESP8266, Amazon Echo, 4 Channel 5V Relay Module, 12V AC to DC power supply, 4 peristaltic pumps, power adapter, power cord.  
-- [Read more about the Second Semester in Tech 190B Here!](https://github.com/sammiet03/VoiceActivatedDrinkMaker/blob/main/Second%20Semester%20Tech%20190B/Tech%20190B%20Process.md)
+- [Read more about the Second Semester in Tech 190B Here!](https://github.com/sammiet03/VoiceActivatedDrinkMaker/tree/main/Second%20Semester%20Tech%20190B)
