@@ -7,7 +7,7 @@
 - Deciding project topic 
 - Creating Voice Activated Drink Maker Prototype 
 - Materials used to create prototype: Arduino Uno, 12V Relay Module, 12V Power Supply, 12V Peristaltic Pump, Elechouse Voice Recognition Module, etc.
-- [Read more about the First Semester in Tech 190A](https://github.com/sammiet03/VoiceActivatedDrinkMaker/tree/main/First%20Semester%20Tech%20190A)
+- [Read more about the First Semester in Tech 190A](https://github.com/sammiet03/VoiceActivatedDrinkMaker/tree/main/Second%20Semester%20Tech%20190B)
 
 
 ### Second Semester Tech 190B 
